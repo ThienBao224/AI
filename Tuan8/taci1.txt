@@ -1,0 +1,12 @@
+3
+    6    1    7
+    4    8    3
+    2    5    0
+    1    6    2
+    3    5    4
+    0    8    7
+
+note: 
+-dong đầu ghi số n;
+-trong n dòng tiếp theo ghi ma trận của trạng thái bắt đầu;
+-trong n dòng cuối ghi ma trận của trạng thái kết thúc;
